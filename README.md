@@ -1,2 +1,2 @@
 # GTetris : Reloaded
-## This is the remake of my old addon "GTetris", it's still WIP
+A fully rewritten version of GTetris!
